@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Lal Babu Kumar
 
-<!--
-**LalBabu81022/LalBabu81022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning JavaScript & React  
+🚀 Passionate about building real-world projects  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- I love learning by building projects  
+- Strong interest in Web Development & JavaScript  
+- Improving DSA and problem-solving skills  
+- Goal: Become a professional Full Stack Developer  
+
+---
+
+## 🛠 Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+- Git & GitHub  
+- React (Learning)  
+
+---
+
+## 📌 Projects
+- 🔹 Random Text Generator  
+- 🔹 DOM CRUD Operations  
+- 🔹 JavaScript Practice Projects  
+
+> More projects coming soon 🚀
+
+---
+
+##
